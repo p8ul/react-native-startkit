@@ -2,8 +2,9 @@
 This boilerplate launches with a React Native app
 
 # installation
-git clone https://github.com/p8ul/react-native-startkit.git
-npm i
+    git clone https://github.com/p8ul/react-native-startkit.git
+    
+    npm i
 
 # running
 react-native run-android
